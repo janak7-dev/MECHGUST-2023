@@ -21,7 +21,7 @@ button1.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Demonstrate your technical abilities to become the all-time prodigy of tech quizzes.
         </p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -50,7 +50,7 @@ button1.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/G89zhR2HoHeZdceL8'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -66,7 +66,7 @@ button2.addEventListener('click', () => {
         <p style="width: 75%;">There is no innovation and creativity without failure. An opportunity to showcase your ability and 
         comprehensive understanding of your disciplines. Mesmerize and attract your audience with your 
         innovative presentation.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -106,7 +106,7 @@ button2.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/HbDvnmthZJ2ZAwH37'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -121,7 +121,7 @@ button3.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Transform the engineering designs into end products which helpful to enrich your knowledge & 
         career in designing field.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -147,7 +147,7 @@ button3.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/XZJk4JDoGMiWJUfv5'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -162,7 +162,7 @@ button4.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Consider your design route and investigate answers to challenging challenges as you prepare for jobs 
         in architecture, engineering, and digital arts.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -191,7 +191,7 @@ button4.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/Hvxt4vamEL2eP3Me8'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -207,7 +207,7 @@ button5.addEventListener('click', () => {
         <p style="width: 75%;">Create a water rocket within the required parameters that is important enough to get your squad to 
         the finish line and earn you the title of finest water rockeeter in town.
         </p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -244,7 +244,7 @@ button5.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/hj9Kom9qTuhkY5wT9'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>
             
         </div>
     </div>
@@ -260,7 +260,7 @@ button6.addEventListener('click', () => {
         <p style="width: 75%;">Precision and perfection are distinguishing characteristics in the mechanical sphere. Demonstrate 
         your ability to create.
         </p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -292,7 +292,7 @@ button6.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/EZrqfmoWCsBvpnMo6'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -306,7 +306,7 @@ button7.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Efficacious way to present your ideas and explaining about it in a aspiring way. Engage & attract the 
         audience by your mastery.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -341,7 +341,7 @@ button7.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/5FpAkU6XNzQ1t3oe7'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -355,7 +355,7 @@ button8.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Too tired with the conventional treasure hunt? Prepare your heads and put on your thinking caps! 
         Let's make the Hunt more exciting.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -385,7 +385,7 @@ button8.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/6DSrJQWuqvptCjpe6'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -399,7 +399,7 @@ button9.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Life is similar like riding a bicycle. You must keep moving to maintain your equilibrium. Here's a test 
         to determine how quickly you can assemble components of dismantled bicycles.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -434,7 +434,7 @@ button9.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/BLTSggikGmE5abs59'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -447,7 +447,7 @@ button10.addEventListener('click', () => {
         <span class="pop-up-close" onClick="closeTag()">&times;</span>
         <h1>Description</h1>
         <p style="width: 75%;">It's a puzzle! Not the type you believe it's unique in every way. Look out for a Tech</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -479,7 +479,7 @@ button10.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/28uiocrXvL98rimy5'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;

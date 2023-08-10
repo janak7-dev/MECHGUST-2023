@@ -17,7 +17,7 @@ button1.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Are you an expert in wordplay? wordsmith pro? Good at guessing? Then Buckle up with
         your buddies because this event is for you.</p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
         <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;    PRASANNA  
@@ -51,7 +51,7 @@ button1.addEventListener('click', () => {
             </ul>
            
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/e266vZJL44HboVJ79'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -64,7 +64,7 @@ button2.addEventListener('click', () => {
         <span class="pop-up-close" onClick="closeTag()">&times;</span>
         <h1>Description</h1>
         <p style="width: 75%;">Rack your minds intensively.</p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
         <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SHURTHIKSHA
@@ -97,7 +97,7 @@ button2.addEventListener('click', () => {
 	<li>The judge's decision will be final.</li></ul>
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/tyP1SpVm2dZj8BP19'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -114,7 +114,7 @@ button3.addEventListener('click', () => {
         <p style="width: 75%;">Standout event and a way to take a break from the conventional form of debating. Make a
         convincing point to demonstrate your speaking abilities.
         </p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
         <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  MUZAMMIL AHMAN
@@ -143,7 +143,7 @@ button3.addEventListener('click', () => {
             </ul>
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/zLTUwXMBRqpKTGN16'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -158,7 +158,7 @@ button4.addEventListener('click', () => {
         <p style="width: 75%;">Do you think you have what it takes to become the wolf of Wall Street? Display your
         marketing prowess.        
         </p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
         <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  ARUNKUMAR R
@@ -192,7 +192,7 @@ button4.addEventListener('click', () => {
             </ul>
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/w9q3siVzFU9SMm6AA'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -208,7 +208,7 @@ button5.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Ready to tell a kutty story? We pay attention and listen to you.
         </p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
         <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  MANOJ P
@@ -234,7 +234,7 @@ button5.addEventListener('click', () => {
             <li>Judges decision is final.</li>            </ul>
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/2F1cWFTUoNbe2dpV9'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -249,7 +249,7 @@ function closeTag() {
         <span class="pop-up-close" onClick="closeTag()">&times;</span>
         <h1>Description</h1>
         <p style="width: 75%;">Paper presentation provides a platform for young minds to be the technology changers with their ideas and just let it flow through their words. Paper presentation is where the students can share their knowledge and improvise their communication skills.</p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         
         <div class="pop-up-text">
@@ -275,7 +275,7 @@ function closeTag() {
             </ul>
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/53Za5J1cGMW8CpcC7'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 }
