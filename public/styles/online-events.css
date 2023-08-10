@@ -1,0 +1,322 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;
+    color: var(--font-color);
+  
+    font-family: "Poppins";
+}
+
+.section-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: "Poppins";
+    position: relative;
+    padding: 1rem 0 3rem 0;
+    color: rgb(255, 255, 255);
+}
+
+.section-container .hero-img {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    z-index: -1;
+}
+
+.headingTag {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #00b7ff;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 0.5rem;
+}
+
+.card-main-div {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card-div {
+    position: relative;
+    width: 18rem;
+    height: 18rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0);
+    padding: 1%;
+    margin: 5%;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 0.5s ease-in-out;
+}
+.card-div:hover{
+    background: rgba(0, 0, 0, 0.771);
+}
+
+
+.animation-card {
+    width: 100%;
+    height: 90%;
+    z-index: 10;
+    position: absolute;
+    background: #1b1b1b;
+    color: #00b7ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    border-radius: 10px;
+    transition: all 0.5s ease-in-out;
+}
+
+.card-div:hover .animation-card {
+    top: -25%;
+    border-radius: 5px;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    width: 130px;
+    height: 40px;
+    margin-top: 185px;
+    font-family: "Roboto", sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    font-weight: bold;
+    background-color: #fff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+
+.button:hover {
+    background-color: #00b7ff;
+    box-shadow: 0px 15px 20px #00b7ff44;
+    color: black;
+    font-weight: bold;
+    transform: translateY(-7px);
+}
+
+.button-js-div{
+    margin-top: 30px;
+    height: max-content; 
+    justify-content: center;
+    align-content: center;
+    overflow: hidden;
+}
+.button-js{
+    width: 180px;
+    height: 45px;
+    margin-top: 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: #ffffff;
+    font-weight: bolder;
+    background-color: #393939;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+.button-js:hover {
+    background-color: #ff0000;
+    box-shadow: 0px 15px 20px #ff00004a;
+    color: #000000;
+    font-weight: bold;
+    transform: translateY(-7px);
+}
+.button-js-2{
+    width: 180px;
+    height: 45px;
+   
+    font-family: "Roboto", sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #ffffff;
+    font-weight: bolder;
+    background-color: #393939;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+.button-js-2:hover {
+    background-color: #00ff26;
+    box-shadow: 0px 15px 20px #00ff264d;
+    color: #000000;
+    font-weight: bold;
+    transform: translateY(-7px);
+}
+.button-js-1{
+    width: 170px;
+    height: 45px;
+    top: 15px;
+    font-family: "Roboto", sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #000;
+    font-weight: bold;
+    background-color: #00b7ff;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;
+}
+.button-js-1:hover {
+    background-color: rgb(40, 40, 40);
+    box-shadow: 0px 15px 20px rgba(255, 255, 255, 0.095);
+    color: #00b7ff;;
+    font-weight: bold;
+    transform: translateY(-7px);
+}
+.button-js-call{
+    width:max-content;
+    height: 45px;
+    margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    font-weight: 500;
+    color: #00b7ff;;
+    font-weight: bold;
+    background-color: #ffd90000;
+    border: none;
+    border-radius: 45px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    outline: none;     
+}
+.button-js-call:hover{
+    background-color: rgb(40, 40, 40);
+    box-shadow: 0px 15px 20px rgba(255, 255, 255, 0.095);
+    color: #ffffff;
+    font-weight: bold;
+    transform: translateY(-7px);
+}
+
+/* pop-up */
+
+.pop-up-div {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: none;
+    justify-content: center;
+    overflow: scroll;
+}
+
+.pop-up-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.926);
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s ease-in-out;
+}
+
+.pop-up-card {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: scroll;
+    justify-content: start;
+}
+
+.pop-up-card::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+.pop-up-text {
+    position: relative;
+    font-family: "Poppins";
+    color: white;
+    margin: 2rem 0;
+    text-align: left;
+    width: 75%;
+}
+
+.heading-pop-up {
+    font-family: "Poppins";
+    font-size: 2rem;
+    color: #00b7ff;
+    text-shadow: 0 0 0.2rem #00b7ff;
+    margin-top: 6rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.pop-up-close {
+    position: absolute;
+    right: 5%;
+    top: 15%;
+    cursor: pointer;
+    background: #fff;
+    color: #000;
+    font-size: 30px;
+    width: 2.3rem;
+    height: 2.3rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
