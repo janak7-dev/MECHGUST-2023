@@ -9,6 +9,8 @@ const button5 = document.querySelector(".button5");
 const button6 = document.querySelector(".button6");
 const button7 = document.querySelector(".button7");
 const button8 = document.querySelector(".button8");
+const button9 = document.querySelector(".button9");
+const button10 = document.querySelector(".button10");
 
 button1.addEventListener("click", () => {
     popUpDiv.style.display = "block";
@@ -20,16 +22,16 @@ button1.addEventListener("click", () => {
         <p style="width: 75%;">A call for all the car aficionados there! Start from the scratch and frame the vehicles
         by the way you love them.
         </p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  TANUSH SELVAM S
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  GOKUL
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919679533416
-        '">+91 9679533416
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919884800045
+        '">+91 9884800045
         </button></h4>
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <ul>
@@ -42,8 +44,8 @@ button1.addEventListener("click", () => {
 	<li>A call for all the car aficionados there! Start from the scratch and frame the vehicles by the way you love them.</li>
             </ul>
             
-                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/9Ps9eSrfAieM6e2y5'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/HpzAajhrQEvXbtqY7'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -58,16 +60,16 @@ button2.addEventListener("click", () => {
         <p style="width: 75%;">Robotics is a furcate of learning paths about design, manufacture & conception. Grasp
         the opportunity to learn the spatial relations about equipment as a neophyte with industrial
         experts.</p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  ATHIPAN
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  KANISHKA 
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+916381129905
-        '">+91 6381129905
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+918072018151
+        '">+91 8072018151
          </button></h4>
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <ul>
@@ -80,8 +82,8 @@ button2.addEventListener("click", () => {
 	<li>Robotics is a furcate of learning paths about design, manufacture & conception. Grasp the opportunity to learn the spatial relations about equipment as a neophyte with industrial experts.</li>            
     
     </ul>
-                        <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/BPD9AufrVYNvH2RZA'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                        <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/2fQBErmJ2zSWTLG2A'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -95,15 +97,15 @@ button3.addEventListener("click", () => {
         <h1>Description</h1>
         <p style="width: 75%;">Curious in addressing complicated mechanical challenges determined by pre-programmed
         machines? Enhance your path about numeric control operations to supplement this approach.</p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SUSIENDIRAN & TAMIL SELVAN
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  JAYASUDHAN
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917708270681'">+91 7708270681</button></h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919597757736'">+91 9597757736</button></h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919500890477'">+91 9500890477</button></h4>
+        
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <ul>
@@ -116,8 +118,8 @@ button3.addEventListener("click", () => {
             <li>Curious in addressing complicated mechanical challenges determined by pre-programmed machines? Enhance your path about numeric control operations to supplement this approach.</lh1
             </ul>
             
-                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/zPWQyqxBHQXA8jt47'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/TqTFU3jHbSxhBtZj9'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -133,16 +135,16 @@ button4.addEventListener("click", () => {
         problem-solving, design, and craftsmanship. Seize this opportunity & unleash your creativity,
         imagination and passion for aviation.
         </p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  BHARATH
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  ARUN V
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919940975517
-        '">+91 9940975517
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919841445400
+        '">+91 9841445400
         </button></h4>
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <ul>
@@ -155,8 +157,8 @@ button4.addEventListener("click", () => {
             <li>Astonishing way to learn about aerodynamics as well as to develop skills in problem-solving, design, and craftsmanship. Seize this opportunity & unleash your creativity, imagination and passion for aviation.</lh1  
             </ul>
            
-                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/uJufMJwkXVsZkhyP8'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/1pQpoZJCsWgsExZh7'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -171,16 +173,16 @@ button5.addEventListener("click", () => {
         opportunity to get extensive knowledge in the field of industrial automation with the support of
         highly experienced experts.
         </p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  NIRMAL S
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  ARAVIND A
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919884880935
-        '">+91 9884880935
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919789847726
+        '">+91 9789847726
         </button></h4>
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <ul>
@@ -192,8 +194,8 @@ button5.addEventListener("click", () => {
             <li>Industrial automation is the second stage beyond mechanization. Here’s an excellent opportunity to get extensive knowledge in the field of industrial automation with the support of highly experienced experts.</li> 
             </ul>
             
-                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/xoxdSbFv5ftDanvg6'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/wnHpLBwmSUC2KTpo8'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -206,16 +208,16 @@ button6.addEventListener("click", () => {
         <h1>Description</h1>
         <p style="width: 75%;">Want to develop expertise in this disruptive technology? Catch the wave and take a
         step closer to the future.</p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SURENDAR GJ
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  HATHIKAL KAVYA
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+916383576568
-        '">+91 6383576568
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919445839238
+        '">+91 9445839238
         </button></h4>
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <ul>
@@ -229,8 +231,8 @@ button6.addEventListener("click", () => {
 
             </ul>
            
-                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/giSpwg5GfoVwKR3d6'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/m6xxD2PBiDULt4Zc6'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -243,16 +245,16 @@ button7.addEventListener("click", () => {
         <h1>Description</h1>
         <p style="width: 75%;">Pursue the vision rather than the money. The money will eventually follow you. Take
         advantage of the opportunity to forge your own path and guide others.</p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SUNDAR K
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SHIVARAM
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919962543976
-        '">+91 9962543976
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919360425604
+        '">+91 9360425604
         </button></h4>
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <ul>
@@ -265,8 +267,8 @@ button7.addEventListener("click", () => {
             <li>Pursue the vision rather than the money. The money will eventually follow you. Take advantage of the opportunity to forge your own path and guide others.</lh1 
             </ul>
             
-                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/8o7BrnGdBhov7UNv6'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/KNcaCxvMXWH22raj6'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -280,16 +282,16 @@ button8.addEventListener("click", () => {
         <p style="width: 75%;">Explore the sophisticated and insightful experience by working on drone kits. Grasp this
         opportunity and experience the top view of the world.
         </p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  MANI BHARATH
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  DHANUSH
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917338792315
-        '">+91 7338792315
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917010620384
+        '">+91 7010620384
         </button></h4>
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <ul>
@@ -301,8 +303,80 @@ button8.addEventListener("click", () => {
             <li>Explore the sophisticated and insightful experience by working on drone kits. Grasp this opportunity and experience the top view of the world.</lh1
             </ul>
             
-                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/kchMqwo9RFnKCB31A'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/QE4FvXFUcJw7StmD7'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
+    </div>
+    `;
+});
+button9.addEventListener("click", () => {
+    popUpDiv.style.display = "block";
+    popUpContainer.innerHTML = `
+    <div class="pop-up-card">
+    <h1 class="heading-pop-up">WELDING TECHNOLOGY</h1>
+        <span class="pop-up-close" onClick="closeTag()">&times;</span>
+        <h1>Description</h1>
+        <p style="width: 75%;">Explore the sophisticated and insightful experience by working on drone kits. Grasp this
+        opportunity and experience the top view of the world.
+        </p> <br>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+
+        <div class="pop-up-text">
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  DHANUSHA
+        </h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919361451529
+        '">+91 9361451529
+        </button></h4>
+        </br>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        
+        </br>
+            <ul>
+            <li>Only college students are permitted to compete.</li>
+            <li>A valid college ID and Bonafide certificate is mandatory.</li>
+            <li>Prior registration is required, either online or on spot before (9:00 AM)</li>
+            <li>No re-entry is permitted and the entry fee is non-refundable.</li>
+            <h1>DESCRIPTION:</h1>
+            <li>Explore the sophisticated and insightful experience by working on drone kits. Grasp this opportunity and experience the top view of the world.</lh1
+            </ul>
+            
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/4jeFfUQunRu8GzVK7'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
+    </div>
+    `;
+});
+button10.addEventListener("click", () => {
+    popUpDiv.style.display = "block";
+    popUpContainer.innerHTML = `
+    <div class="pop-up-card">
+    <h1 class="heading-pop-up">NEW ENERGY</h1>
+        <span class="pop-up-close" onClick="closeTag()">&times;</span>
+        <h1>Description</h1>
+        <p style="width: 75%;">Explore the sophisticated and insightful experience by working on drone kits. Grasp this
+        opportunity and experience the top view of the world.
+        </p> <br>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+
+        <div class="pop-up-text">
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  MANI BHARATH
+        </h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917338792315
+        '">+91 7338792315
+        </button></h4>
+        </br>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        
+        </br>
+            <ul>
+            <li>Only college students are permitted to compete.</li>
+            <li>A valid college ID and Bonafide certificate is mandatory.</li>
+            <li>Prior registration is required, either online or on spot before (9:00 AM)</li>
+            <li>No re-entry is permitted and the entry fee is non-refundable.</li>
+            <h1>DESCRIPTION:</h1>
+            <li>Explore the sophisticated and insightful experience by working on drone kits. Grasp this opportunity and experience the top view of the world.</lh1
+            </ul>
+            
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/zKvwo3K7vuuDKoMX9'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -316,13 +390,13 @@ function closeTag() {
         <h1>Description</h1>
         <p style="width: 75%;"></p> <br>
         <p style="width: 75%;">Paper presentation provides a platform for young minds to be the technology changers with their ideas and just let it flow through their words. Paper presentation is where the students can share their knowledge and improvise their communication skills.</p> <br>
-        <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
 
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  K Pradeep</h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='phone-number'">+91 phone-number</button></h4>
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  K Pradeep</h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='phone-number'">+91 phone-number</button></h4>
         </br>
-        <h4 style="color:#00b7ff;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
+        <h4 style="color:#FFD700;;">Entry  &nbsp;Fee &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; 100Rs/Head</h4>
         
         </br>
             <h1>RULES & REGULATIONS</h1>
@@ -341,18 +415,18 @@ function closeTag() {
             </ul>
            
                     <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/53Za5J1cGMW8CpcC7'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 }
 const video = document.querySelector('.section-container video source');
 
 const setHeroVideoSize = () => {
-	if (innerWidth <= 800) {
-		video.setAttribute('src', '../assets/hero-1.mp4');
-	} else {
-		video.setAttribute('src', '../assets/hero.mp4');
-	}
+    if (innerWidth <= 800) {
+        video.setAttribute('src', '../assets/hero-1.mp4');
+    } else {
+        video.setAttribute('src', '../assets/hero.mp4');
+    }
 };
 
 window.addEventListener('resize', setHeroVideoSize);

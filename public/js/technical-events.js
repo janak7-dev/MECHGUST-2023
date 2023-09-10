@@ -21,13 +21,13 @@ button1.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Demonstrate your technical abilities to become the all-time prodigy of tech quizzes.
         </p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp; ADITYA T
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp; MADHESH
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919677215322'">+91 9677215322        </button></h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+916380658862'">+91 6380658862        </button></h4>
         </br>
         
         </br>
@@ -49,126 +49,29 @@ button1.addEventListener('click', () => {
             </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/G89zhR2HoHeZdceL8'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
-        </div>
-    </div>
-    `;
-});
-
-button2.addEventListener('click', () => {
-	popUpDiv.style.display = 'block';
-	popUpContainer.innerHTML = `
-    <div class="pop-up-card">
-    <h1 class="heading-pop-up">PAPER PRESENTATION</h1>
-        <span class="pop-up-close" onClick="closeTag()">&times;</span>
-        <h1>Description</h1>
-        <p style="width: 75%;">There is no innovation and creativity without failure. An opportunity to showcase your ability and 
-        comprehensive understanding of your disciplines. Mesmerize and attract your audience with your 
-        innovative presentation.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
-            
-            
-        <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SARANUKUMAR T
-        </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917305520278
-        '">+91 7305520278
-        </button></h4>
-        </br>
-        
-        </br>
-      
-        
-
-            <h1>EVENT RULES & REGULATIONS</h1>
-            <ul>
-            <li>Maximum number of participants in a Team is 3.</li>
-	The topics of the papers can be chosen on your own. It is advisable that the presentation
-	 focuses on one particular topic. Report should be well comprehended, albeit advanced
-	which could appeal to an undergraduate. Kindly contact the coordinator for any
-	clarifications.</li>
-	<li>Abstract should not exceed more than 250 words and Paper should not exceed 15 pages.</li>
-	<li>Bring your college I-Card & receipt on event day.</li>
-	<liKindly bring your PowerPoint presentation on a CD or on a pen-drive</li>
-	<li>Soft-copies of the submitted paper and PowerPoint presentations must be in the .docx 
-	format.</li>
-	<li>The teams will get 10 minutes for presentation and followed by question and answer 
-	session.</li>
-	<li>Persons from different institutions can be a part of the same team. However, one person
-	may not be a part of multiple teams for the same event.</li>
-	<li>Paper must contain index, list of figures, list of tables, abstract, introduction, point wise
-	description of subject and conclusion, Result and references.</li>
-	<li>Paper must be preceded by a cover page specifying the title of the paper, names of authors
-	and their college names.</li>
-	<li>The decision of judges will be final and no arguments or appeal will be entertained.</li>   
-            </ul>
-            
-            
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/HbDvnmthZJ2ZAwH37'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
-        </div>
-    </div>
-    `;
-});
-
-button3.addEventListener('click', () => {
-	popUpDiv.style.display = 'block';
-	popUpContainer.innerHTML = `
-    <div class="pop-up-card">
-    <h1 class="heading-pop-up">CAM</h1>
-        <span class="pop-up-close" onClick="closeTag()">&times;</span>
-        <h1>Description</h1>
-        <p style="width: 75%;">Transform the engineering designs into end products which helpful to enrich your knowledge & 
-        career in designing field.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
-            
-            
-        <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp; TANUSH KUMAR
-        </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917708169842
-        '">+91 7708169842
-        </button></h4>
-        </br>
-        
-        </br>
-      
-        
-
-            <h1>EVENT RULES & REGULATIONS</h1>
-            <ul>
-            <li>All participants should bring their own laptops with the CAM software preinstalled.</li>
-            <li>Any CAM software can be used.</li>
-            <li>Individual participants and a team of 2 members are allowed.</li>
-            <li>Online registration and on the spot registration can be done.</li>
-            <li>Marks will be allotted by the juries based on your performance.</li>  
-            </ul>
-            
-            
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/XZJk4JDoGMiWJUfv5'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/hVsSVda7ts4XvrqB6'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
 });
 
 button4.addEventListener('click', () => {
-	popUpDiv.style.display = 'block';
-	popUpContainer.innerHTML = `
+    popUpDiv.style.display = 'block';
+    popUpContainer.innerHTML = `
     <div class="pop-up-card">
     <h1 class="heading-pop-up">CAD MODELLING</h1>
         <span class="pop-up-close" onClick="closeTag()">&times;</span>
         <h1>Description</h1>
         <p style="width: 75%;">Consider your design route and investigate answers to challenging challenges as you prepare for jobs 
         in architecture, engineering, and digital arts.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  MONISH M 
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  VISHNUPRIYA 
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917550123364'">+91 7550123364
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+918056780607'">+91 8056780607
         </button></h4>
         </br>
         
@@ -190,12 +93,109 @@ button4.addEventListener('click', () => {
             </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/Hvxt4vamEL2eP3Me8'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/9Zf3MthpibjKGdaDA'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
 });
+
+button3.addEventListener('click', () => {
+    popUpDiv.style.display = 'block';
+	popUpContainer.innerHTML = `
+    <div class="pop-up-card">
+    <h1 class="heading-pop-up">CAM</h1>
+        <span class="pop-up-close" onClick="closeTag()">&times;</span>
+        <h1>Description</h1>
+        <p style="width: 75%;">Transform the engineering designs into end products which helpful to enrich your knowledge & 
+        career in designing field.</p> <br>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            
+            
+        <div class="pop-up-text">
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp; DHARANIDHARAN
+        </h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919360371714
+        '">+91 9360371714
+        </button></h4>
+        </br>
+        
+        </br>
+      
+        
+
+            <h1>EVENT RULES & REGULATIONS</h1>
+            <ul>
+            <li>All participants should bring their own laptops with the CAM software preinstalled.</li>
+            <li>Any CAM software can be used.</li>
+            <li>Individual participants and a team of 2 members are allowed.</li>
+            <li>Online registration and on the spot registration can be done.</li>
+            <li>Marks will be allotted by the juries based on your performance.</li>  
+            </ul>
+            
+            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/XZJk4JDoGMiWJUfv5'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
+        </div>
+    </div>
+    `;
+});
+button2.addEventListener('click', () => {
+    popUpDiv.style.display = 'block';
+    popUpContainer.innerHTML = `
+    <div class="pop-up-card">
+    <h1 class="heading-pop-up">PAPER PRESENTATION</h1>
+        <span class="pop-up-close" onClick="closeTag()">&times;</span>
+        <h1>Description</h1>
+        <p style="width: 75%;">There is no innovation and creativity without failure. An opportunity to showcase your ability and 
+        comprehensive understanding of your disciplines. Mesmerize and attract your audience with your 
+        innovative presentation.</p> <br>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            
+            
+        <div class="pop-up-text">
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;8248230268
+        </h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+918248230268
+        '">+91 8248230268
+        </button></h4>
+        </br>
+        
+        </br>
+      
+        
+
+            <h1>EVENT RULES & REGULATIONS</h1>
+            <ul>
+            <li>Maximum number of participants in a Team is 3.</li>
+    The topics of the papers can be chosen on your own. It is advisable that the presentation
+     focuses on one particular topic. Report should be well comprehended, albeit advanced
+    which could appeal to an undergraduate. Kindly contact the coordinator for any
+    clarifications.</li>
+    <li>Abstract should not exceed more than 250 words and Paper should not exceed 15 pages.</li>
+    <li>Bring your college I-Card & receipt on event day.</li>
+    <liKindly bring your PowerPoint presentation on a CD or on a pen-drive</li>
+    <li>Soft-copies of the submitted paper and PowerPoint presentations must be in the .docx 
+    format.</li>
+    <li>The teams will get 10 minutes for presentation and followed by question and answer 
+    session.</li>
+    <li>Persons from different institutions can be a part of the same team. However, one person
+    may not be a part of multiple teams for the same event.</li>
+    <li>Paper must contain index, list of figures, list of tables, abstract, introduction, point wise
+    description of subject and conclusion, Result and references.</li>
+    <li>Paper must be preceded by a cover page specifying the title of the paper, names of authors
+    and their college names.</li>
+    <li>The decision of judges will be final and no arguments or appeal will be entertained.</li>   
+            </ul>
+            
+            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/KdS8H6y9MoofEHX19'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='C/views/events.html'">Back to events</button></div>            
+        </div>
+    </div>
+    `;
+});
+
 
 button5.addEventListener('click', () => {
 	popUpDiv.style.display = 'block';
@@ -207,15 +207,15 @@ button5.addEventListener('click', () => {
         <p style="width: 75%;">Create a water rocket within the required parameters that is important enough to get your squad to 
         the finish line and earn you the title of finest water rockeeter in town.
         </p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp; PRAVEEN RAJ & T MOHAN
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;PURUSHOTHAM
 
 </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917358507359'">+91 7358507359</button></h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919345775096'">+91 9345775096</button></h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+918056277289'">+91 8056277289</button></h4>
+        
         </br>
         
         </br>
@@ -243,8 +243,8 @@ button5.addEventListener('click', () => {
             </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/hj9Kom9qTuhkY5wT9'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/eg17pM5shDPHUVa47'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>
             
         </div>
     </div>
@@ -260,14 +260,14 @@ button6.addEventListener('click', () => {
         <p style="width: 75%;">Precision and perfection are distinguishing characteristics in the mechanical sphere. Demonstrate 
         your ability to create.
         </p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  MOHANRAJ M 
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  ADITHYA
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919003212966
-        '">+91 9003212966
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+918300354249
+        '">+91 8300354249
         </button></h4>
         </br>
         
@@ -291,8 +291,8 @@ button6.addEventListener('click', () => {
             </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/EZrqfmoWCsBvpnMo6'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/9abFUoQBVuzCyp359'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -306,14 +306,14 @@ button7.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Efficacious way to present your ideas and explaining about it in a aspiring way. Engage & attract the 
         audience by your mastery.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SRI VARDHAN
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  TAMILSELVAN
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+918825526568
-        '">+91 8825526568
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919600728468
+        '">+91 9600728468
         </button></h4>
         </br>
         
@@ -340,8 +340,8 @@ button7.addEventListener('click', () => {
             </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/5FpAkU6XNzQ1t3oe7'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/T6mpxZaBjGANNUUy8'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -355,14 +355,14 @@ button8.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Too tired with the conventional treasure hunt? Prepare your heads and put on your thinking caps! 
         Let's make the Hunt more exciting.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  KESHAVARSHINI K
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  NITHISH
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919003585421
-        '">+91 9003585421
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919042763522
+        '">+91 9042763522
         </button></h4>
         </br>
         
@@ -384,8 +384,8 @@ button8.addEventListener('click', () => {
             </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/6DSrJQWuqvptCjpe6'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/YQWffsYRZpckWdVD8'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -399,14 +399,14 @@ button9.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Life is similar like riding a bicycle. You must keep moving to maintain your equilibrium. Here's a test 
         to determine how quickly you can assemble components of dismantled bicycles.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  BALAJI & KAVIYARASAN
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  ARUNACHALAM
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='+917550377476'">+91 7550377476</button></h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='+919940529068'">+91 9940529068</button></h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='+916385160996'">+91 6385160996</button></h4>
+        
         </br>
         
         </br>
@@ -433,8 +433,8 @@ button9.addEventListener('click', () => {
             </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/BLTSggikGmE5abs59'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/FxCPREQtXAfMmYPr9'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;
@@ -447,14 +447,14 @@ button10.addEventListener('click', () => {
         <span class="pop-up-close" onClick="closeTag()">&times;</span>
         <h1>Description</h1>
         <p style="width: 75%;">It's a puzzle! Not the type you believe it's unique in every way. Look out for a Tech</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SUVAJI M
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  SHAKTHIVEL
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='7305935988
-        '">+917305935988
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='9840442033
+        '">+919840442033
         </button></h4>
         </br>
         
@@ -478,8 +478,8 @@ button10.addEventListener('click', () => {
             </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/28uiocrXvL98rimy5'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>            
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/LGWtz39eMemanEx99'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>            
         </div>
     </div>
     `;

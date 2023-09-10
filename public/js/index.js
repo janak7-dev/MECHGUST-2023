@@ -1,4 +1,4 @@
-const eventDay = moment('03-24-2023');
+const eventDay = moment('09-26-2023');
 const now = moment();
 const timeSpan = eventDay.diff(now);
 

@@ -14,14 +14,14 @@ button1.addEventListener('click', () => {
         <span class="pop-up-close" onClick="closeTag()">&times;</span>
         <h1>Description</h1>
         <p style="width: 75%;">One touch of nature makes the whole world kin. Showcase your stills, let the world see the memories you captured through your lens.</p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  ANCY
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  ARUNMOZHILDEVAN
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919080302678
-        '">+91 9080302678
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+917200243998
+        '">+91 7200243998
         </button></h4>
         </br>
         
@@ -50,8 +50,8 @@ button1.addEventListener('click', () => {
     </ul>
             
             
-            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/hSg7Bfe9qH6q9ooNA'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html">Back to events</button></div>
+            <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/YLr7R9YrVpH42ToC7'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html">Back to events</button></div>
             
         </div>
     </div>
@@ -68,13 +68,13 @@ button2.addEventListener('click', () => {
         <p style="width: 75%;">Memes have become a ubiquitous form of online communication and expressing
         humor in a concise way. Reveal yours and seize the prize.
         </p> <br>
-        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
        
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  CLARA
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  GANESH V N
         </h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+919940659512
-        '">+91 9940659512
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='tel:+918438893284
+        '">+91 8438893284
         </button></h4>
         </br>
         
@@ -100,8 +100,8 @@ button2.addEventListener('click', () => {
             <li>The winners will be determined by the number of likes</li>
             </ul>
             
-                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/Cd152vLbK7MeBsiJ6'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+                    <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/ZFWy6AyivjZrBEiy7'">Register now</button>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -114,11 +114,11 @@ button3.addEventListener('click', () => {
         <span class="pop-up-close" onClick="closeTag()">&times;</span>
         <h1>Description</h1>
         <p style="width: 75%;">Memes unite the funny bones of the online world and serve as a forum for social commentary, pop culture observations, and photo editing skills. Exemplify your abilities and claim your prize.</p> <br>
-        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
         
         <div class="pop-up-text">
-        <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  K Pradeep</h4>
-        <h4 style="color:#00b7ff;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='phone-number'">+91 phone-number</button></h4>
+        <h4 style="color:#FFD700;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  K Pradeep</h4>
+        <h4 style="color:#FFD700;;">Contact &nbsp; No &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : &nbsp; &nbsp; <button class="button-js-call" onclick="window.location.href='phone-number'">+91 phone-number</button></h4>
         </br>
         
         </br>
@@ -133,7 +133,7 @@ button3.addEventListener('click', () => {
             
             
                     <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/53Za5J1cGMW8CpcC7'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });

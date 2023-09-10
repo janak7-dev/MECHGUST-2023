@@ -35,7 +35,7 @@ button1.addEventListener('click', () => {
                 <li>Round 2: Technical Topic</li>
             </ul>
             <h4>Student coordinator: Gokul N Ph. +91 8754411553</h4>
-            <button class="button-js btn" style="width: 65%;" onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/technical-events.html'">Back to events</button>
+            <button class="button-js btn" style="width: 65%;" onclick="window.location.href='/views/technical-events.html'">Back to events</button>
         </div>
     </div>
     `;

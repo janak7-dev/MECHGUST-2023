@@ -18,7 +18,7 @@ button1.addEventListener('click', () => {
         <p style="width: 75%;">Is that a football fan I'm seeing? Join your squad in this minifootball variant and work
         together to dominate. Claim the title of G.O.AT. in this fun and action packed sport.
         </p> <br>
-            <div><button class="button-js-1 btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+            <div><button class="button-js-1 btn"  onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
             
             
         <div class="pop-up-text">
@@ -47,7 +47,7 @@ button1.addEventListener('click', () => {
            
 
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/ipwcJG3QDhCAKRxh9'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>
             
         </div>
     </div>
@@ -64,7 +64,7 @@ button2.addEventListener('click', () => {
         <p style="width: 75%;">What is more fun than playing with your buddies in your "gully" with your own rules. This
         is your opportunity to be the "Captain cool" or "The Run machine" of your group.
         </p> <br>
-        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
        
         <div class="pop-up-text">
         <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  RAM PRAKESH & AJITH
@@ -87,7 +87,7 @@ button2.addEventListener('click', () => {
             </ul>
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/s4wBM3NjT1qEjeUK7'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -102,7 +102,7 @@ button3.addEventListener('click', () => {
         <h1>Description</h1>
         <p style="width: 75%;">Demonstrate your skills in this team sport in which you and your opponents are
         only separated by a net. Smash and grind the ball to be declared the best in the field.</p> <br>
-        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
         
         <div class="pop-up-text">
         <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  NETHAJI 
@@ -126,7 +126,7 @@ button3.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/6Cj9NFAEAfaEk2U76'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });
@@ -140,7 +140,7 @@ button4.addEventListener('click', () => {
         <p style="width: 75%;">Every chess master was once a novice; here is your chance to prove that you are not a
         pawn, but a king. We're giving you a chance to shine in the battle over the board.
         </p> <br>
-        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
+        <div><button class="button-js-1 btn" style="width: 50%;" onclick="window.location.href='/views/customary-rules.html'">GENERAL RULES</button><br><br>Before going ahead, Find the general rules attatched above</div>
         
         <div class="pop-up-text">
         <h4 style="color:#00b7ff;;">Event  &nbsp;coordinator &nbsp; &nbsp;: &nbsp; &nbsp;  AJHAY RAM
@@ -163,7 +163,7 @@ button4.addEventListener('click', () => {
             
             
             <div class="button-js-div"><button class="button-js-2 btn"  onclick="window.location.href='https://forms.gle/yjadcDD2HkdrAjGZ7'">Register now</button>
-            <button class="button-js btn"  onclick="window.location.href='https://janak7-dev.github.io/Mechgust-2023/views/events.html'">Back to events</button></div>        </div>
+            <button class="button-js btn"  onclick="window.location.href='/views/events.html'">Back to events</button></div>        </div>
     </div>
     `;
 });

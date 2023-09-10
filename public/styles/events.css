@@ -32,8 +32,7 @@ body {
     top: 0;
     left: 0;
     z-index: -1;
-    filter: contrast(1);
-	filter: brightness(75%);
+	filter: brightness(27%);
     
 }
 
@@ -41,11 +40,11 @@ body {
 .headingTag {
     font-size: 3rem;
     font-weight: bold;
-    color: #00b7ff;
+    color: #FFD700;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
     margin-bottom: 1rem;
-    text-shadow: 0 0 0.5rem rgb(4, 183, 207);
+    text-shadow: 0 0 0.2rem #FFD700;
 }
 
 .card-main-div {
@@ -66,7 +65,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(0, 0, 0, 0);
+    background: #570080;
     padding: 1%;
     margin: 5%;
     border-radius: 10px;
@@ -82,7 +81,7 @@ body {
     height: 90%;
     z-index: 10;
     position: absolute;
-    color: #00b7ff;
+    color: #FFD700;
     object-fit: cover;
     background-color: #1b1b1b;
     display: flex;
@@ -103,7 +102,7 @@ body {
     height: 90%;
     z-index: 10;
     position: absolute;
-    color: #00b7ff;
+    color: #FFD700;
     object-fit: cover;
     background-color: #1b1b1b;
     display: flex;
@@ -124,7 +123,7 @@ body {
     height: 90%;
     z-index: 10;
     position: absolute;
-    color: #00b7ff;
+    color: #FFD700;
     object-fit: cover;
     background-color: #1b1b1b;
     display: flex;
@@ -145,7 +144,7 @@ body {
     height: 90%;
     z-index: 10;
     position: absolute;
-      color: #00b7ff;
+      color: #FFD700;
     object-fit: cover;
     background-color: #1b1b1b;
     display: flex;
@@ -166,7 +165,7 @@ body {
     height: 90%;
     z-index: 10;
     position: absolute;
-    color: #00b7ff;
+    color: #FFD700;
     object-fit: cover;
     background-color: #1b1b1b;
     display: flex;
@@ -186,7 +185,7 @@ body {
     width: 100%;
     height: 100%;
     display: flex;
-    color: #00b7ff;
+    color: #FFD700;
     
     flex-direction: column;
     align-items: center;
@@ -221,8 +220,8 @@ body {
 	outline: none;
 }
 .button000:hover {
-	background-color: #00b7ff;
-	box-shadow: 0px 15px 20px #00b7ff44;
+	background-color: #FFD700;
+	box-shadow: 0px 15px 20px #FFD70044;
 	color: black;
 	transform: translateY(-7px);
   }
